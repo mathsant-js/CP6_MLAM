@@ -7,12 +7,7 @@ O projeto desenvolve e compara modelos de aprendizado de máquina supervisionado
 
 ## 👥 Integrantes do Grupo
 
-* **Caio César Portela França** — RM 573127
-* **Davi Teodoro Novais** — RM 571022
-* **Gustavo Curis de Francisco** — RM 569704
-* **Lourenço Borges da Silva** — RM 569515
 * **Matheus Jorge Santana** — RM 574166
-* **Tiago Pimentel Muniz** — RM 574148
 
 **Professor Responsável:** Me. Eng. Rodolfo Magliari de Paiva **Turma:** 1CCPQ — FIAP
 
